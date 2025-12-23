@@ -57,7 +57,6 @@ The trained model is saved as:
 
 ---
 
-## 🔮 Sample Prediction
 
 ---
 
