@@ -51,3 +51,7 @@ easy-to-understand way.
 ---
 
 ## 📁 Project Structure
+├── data.csv
+├── main.py
+├── README.md
+└── index.html
