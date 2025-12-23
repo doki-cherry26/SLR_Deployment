@@ -41,7 +41,7 @@ Python and the scikit-learn library.
 
 ---
 
-## 📐 Regression Equation
+
 
 ---
 
